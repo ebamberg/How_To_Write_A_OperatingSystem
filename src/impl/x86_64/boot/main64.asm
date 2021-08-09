@@ -1,7 +1,7 @@
 global long_mode_start
 
 
-.section text
+section .text
 bits 64
 
 long_mode_start:
